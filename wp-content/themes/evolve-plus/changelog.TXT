@@ -1,0 +1,192 @@
+Version:         2.6.0  
+Date:         18/4/16
+
+- Added Five New Header Layouts
+- Added unlimited number of Bootstrap slides and reordering option
+- Added unlimited number of Parallax slides and reordering option
+- Added Custom Fonts Feature
+- Added New Options in the Header section
+
+- Improved Responsive Menu - Added New Options
+- Improved Dynamic CSS Generation
+- Updated Translation Files
+- Updated WooCommerce Files
+- Updated Redux Framework
+
+- Fixed WPML Compatibility
+- Fixed Sticky Header Issues
+- Fixed many other visual and function issues
+
+
+Version:         2.5.1  
+Date:         15/12/15
+
+- Fixed blog shortcode issue with WordPress 4.4
+
+
+Version:         2.5.0  
+Date:         19/11/15
+
+- Added Portfolio Feature and Widget - Up To 9 Templates
+- Added New Shortcodes - Blog, Flip Boxes, Modal, Popover, Recent Works, Theme4Press Slider
+- Added Theme Automatic Update Feature
+- Added Many New Theme Options - Social Links Sorting, Shortcodes styling and much more
+
+- Replaced Flexslider with Theme4Press Slider
+- Replaced many image icons with IcoMoon font
+- Updated Font Awesome
+- Fixed many issues
+- Improved overall design - added options to turn on/off shadow effects, modern flat design integrated  
+
+
+Version:         2.0.1  
+Date:         5/8/15
+
+- Fixed IcoMoon bug, Fixed Front Page Content boxes bug, Minor fixes
+
+
+Version:         2.0.0  
+Date:         2/8/15
+
+- Added Redux Framework support
+- Added Romanian translation
+
+- Updated Revolution Slider plugin
+- Updated Layer Slider plugin
+- Fixed minor issues
+
+
+Version:         1.9.0  
+Date:         27/5/15
+
+- Added Import Demo Content button to Theme Options page
+- Added global sidebar for BBPress
+- Added standard WordPres templates - single.php, 404.php, search.php, author.php, attachment.php, page.php
+- Added option to select layout per post/page 
+
+- Updated Revolution Slider plugin
+- Additional W3C Validation
+- Fixed comments view on homepage
+- Fixed sidebar views 
+- Fixed Lightbox issue with attachments
+
+
+Version:         1.8.5  
+Date:         12/5/15
+
+- Added options to select typography for H1-H6 headings, widgets title and content
+- Added option to select a featured image for pages
+- Added options to select custom background and color for Header, Content and Footer area    
+- Added option to select title length of Posts Slider
+- Added option to disable boxed layout shadow effect  
+- Fixed Front Page sliders and content boxes display
+- Fixed excerpt bug in Posts slider
+- Updated comments avatars 
+- Updated Color Picker in Customize
+- Overall clean up of unnecessary functions, spaces and CSS
+
+
+Version:         1.8.0  
+Date:         14/4/15
+
+- Implemented Google reCAPTCHA for Contact page template
+- Added option to enable/disable Bootstrap Slides 100% Background
+- Added Tumblr social media icon    
+- Fixed small Google Map issue
+- IE fixes    
+
+
+Version:         1.7.8  
+Date:         1/4/15
+
+- Added Infinite Scroll feature 
+- Added option to select Bootstrap slider and Header widgets per page 
+- IE compatibility fixes 
+- Bootstrap images and responsiveness fixes 
+- <title> tag fix 
+- Completed translation
+- Fixed Polylang plugin issue 
+- Added WPML compatibility 
+- Color picker replaced with default WP library 
+- Fixed various issues
+
+
+Version:         1.7.5  
+Date:         1/3/15
+
+- Added bbPress and BuddyPress support 
+- Added favicon option 
+- Added 1-4 Front page content boxes option
+- Fixed various stylesheet issues
+
+- Updated translation files
+
+
+Version:         1.7.0  
+Date:         13/2/15
+
+- Added Calibri font 
+- Added title characters limit settings option 
+- Added single post featured image 
+- Added Logo center option
+- Added Dynamic CSS
+- Fixed Bootstrap image alignment and titles background
+- Fixed codes issue in excerpts 
+- Fixed CSS and Google Fonts
+- Fixed customizer bug and another minor bugs 
+- Fixed upload media library  
+
+- Updated Revolution Slider plugin
+- Updated Layer Slider plugin
+- Updated WooCommerce integration
+- Updated FontAwesome icons
+- Updated Bootstrap Elements
+
+
+Version:         1.6.6  
+Date:         26/11/14
+
+- Added new options to disable menu effect and default thumbnail of posts
+- Fixed child theme support
+- Fixed validation bugs 
+
+- Updated Revolution Slider plugin
+- Updated Layer Slider plugin
+- Updated Flickr Widget
+- Updated Twitter Widget
+- Updated WooCommerce files
+
+
+Version:         1.6.5  
+Date:         3/6/14
+
+- Added Front Page Content Boxes (enabled by default)
+- Updated FontAwesome icons to the latest version, fixed custom header width
+- Fixed Bootstrap Slider arrows issue
+
+
+Version:         1.6.0  
+Date:         25/5/14
+
+- Added Bootstrap Slider option in the control panel
+- Changed default background
+- Minor fixes
+
+
+Version:         1.5.0  
+Date:         18/5/14
+
+- Added new theme options
+- Added Macedonian translation, minor fixes
+- Added WooCommerce One Page Checkout layout
+
+- Updated Theme4Press Shortcodes
+- Updated WooCommerce templates
+- Updated Revolution Slider plugin
+- Updated Layer Slider plugin
+
+
+Version:         1.0.0  
+Date:         27/3/14
+
+- Initial release
